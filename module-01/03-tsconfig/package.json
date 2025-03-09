@@ -1,0 +1,17 @@
+{
+  "name": "03-tsconfig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/node": "^22.13.10",
+    "typescript": "^5.2.2"
+  }
+}
